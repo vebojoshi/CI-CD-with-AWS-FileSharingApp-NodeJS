@@ -1,13 +1,19 @@
-# inShare file sharing app apis
+# 🔰 CI-CD Project on AWS 🔰
+
+The Complete FullStack NodeJS Project deployed on AWS ElasticBeanstalk Service with CI-CD.
+
+
+# ⚜️ inShare file sharing app apis ⚜️
 
 Rest api using Node, Express, Mongo.
 We will build rest api for a simple file sharing app. 
 
-![demo gif](https://github.com/ShivamJoker/GIF-Demos/raw/master/inshare%20demo.gif)
 
-### Frontend source code can be found on @ShivamJoker Github
+### (frontend) source code can be found on @ShivamJoker Github
 https://github.com/ShivamJoker/InShare
 
+### (backend) source code can be found on
+https://github.com/codersgyan/inshare-file-sharing-app-api
 
 ## Installation 
 After download or clone run `npm install` OR `yarn install` to install all the dependancies.
