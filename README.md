@@ -6,7 +6,7 @@ The Complete FullStack NodeJS Project deployed on AWS ElasticBeanstalk Service w
 # ⚜️ inShare file sharing app apis ⚜️
 
 Rest api using Node, Express, Mongo.
-We will build rest api for a simple file sharing app. 
+We have build & Deploy rest api for a simple file sharing app. 
 
 
 ### (frontend) source code 
