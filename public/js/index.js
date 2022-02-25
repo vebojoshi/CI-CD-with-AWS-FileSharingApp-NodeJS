@@ -15,7 +15,8 @@ const emailForm = document.querySelector("#emailForm");
 
 const toast = document.querySelector(".toast");
 
-const baseURL = "http://localhost:80";
+//const baseURL = "http://localhost:80";
+const baseURL = "http://fileshareapp-env.eba-qxe7p6uq.us-east-2.elasticbeanstalk.com/:80";
 const uploadURL = `${baseURL}/api/files`;
 const emailURL = `${baseURL}/api/files/send`;
 
@@ -31,7 +32,7 @@ dropZone.addEventListener("drop", (e) => {
   //   console.log("dropped", e.dataTransfer.files[0].name);
   const files = e.dataTransfer.files;
   if (files.length === 1) {
-    if (files[0].size < maxAllowedSize) {
+    if (files[0].size < maxAllowedSize) {   
       fileInput.files = files;
       uploadFile();
     } else {
