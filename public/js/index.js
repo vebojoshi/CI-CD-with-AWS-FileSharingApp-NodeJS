@@ -16,7 +16,7 @@ const emailForm = document.querySelector("#emailForm");
 const toast = document.querySelector(".toast");
 
 //const baseURL = "http://localhost:80";
-const baseURL = "http://fileshareapp-env.eba-qxe7p6uq.us-east-2.elasticbeanstalk.com/:80";
+const baseURL = "http://fileshareapp-env.eba-qxe7p6uq.us-east-2.elasticbeanstalk.com";
 const uploadURL = `${baseURL}/api/files`;
 const emailURL = `${baseURL}/api/files/send`;
 
