@@ -9,10 +9,10 @@ Rest api using Node, Express, Mongo.
 We will build rest api for a simple file sharing app. 
 
 
-### (frontend) source code can be found on @ShivamJoker Github
+### (frontend) source code 
 https://github.com/ShivamJoker/InShare
 
-### (backend) source code can be found on
+### (backend) source code 
 https://github.com/codersgyan/inshare-file-sharing-app-api
 
 ## Installation 
