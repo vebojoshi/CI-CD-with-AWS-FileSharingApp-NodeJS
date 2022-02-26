@@ -21,7 +21,7 @@ const baseURL = "http://fileshareapp-env.eba-qxe7p6uq.us-east-2.elasticbeanstalk
 //=======
 
 //const baseURL = APP_BASE_URL
-const baseURL = "http://localhost";
+//const baseURL = "http://localhost";
 //const baseURL = "http://fileshareapp-env.eba-qxe7p6uq.us-east-2.elasticbeanstalk.com";
 //>>>>>>> 53c6b1a (GithubLink Added)
 const uploadURL = `${baseURL}/api/files`;
